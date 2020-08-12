@@ -1,8 +1,11 @@
 {
-    "name": "meishi",
     "publisher": "sgrankin",
+    "name": "meishi",
     "displayName": "meishi",
     "description": "",
+    "repository": {
+        "url": "https://github.com/sgrankin/meishi"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.47.0"
