@@ -1,0 +1,26 @@
+{
+    "name": "meishi",
+    "displayName": "meishi",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "meishi (dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark.json"
+            },
+            {
+                "label": "meishi (light)",
+                "uiTheme": "vs",
+                "path": "./themes/light.json"
+            }
+        ]
+    }
+}
