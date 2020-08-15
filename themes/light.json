@@ -544,6 +544,40 @@
             "settings": {
                 "foreground": "#800080"
             }
+        },
+        {
+            "scope": [
+                "markup.heading",
+                "punctuation.definition.list"
+            ],
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "markup.fenced_code.block",
+                "markup.inline.raw.string"
+            ],
+            "settings": {
+                "foreground": "#008000"
+            }
+        },
+        {
+            "scope": [
+                "markup.bold",
+            ],
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "markup.italic",
+            ],
+            "settings": {
+                "fontStyle": "italic"
+            }
         }
     ],
     "semanticHighlighting": true,
