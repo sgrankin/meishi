@@ -434,7 +434,7 @@
 		{
 			"scope": "meta.type",
 			"settings": {
-				"foreground": "#199ED9"
+				"foreground": "#70D7FF"
 			}
 		},
 		{
@@ -493,19 +493,19 @@
 		},
 		// Nominal Types
 		"type": {
-			"foreground": "#199ED9"
+			"foreground": "#70D7FF"
 		},
 		"class": {
-			"foreground": "#199ED9"
+			"foreground": "#70D7FF"
 		},
 		"enum": {
-			"foreground": "#199ED9"
+			"foreground": "#70D7FF"
 		},
 		"interface": {
-			"foreground": "#199ED9"
+			"foreground": "#70D7FF"
 		},
 		"struct": {
-			"foreground": "#199ED9"
+			"foreground": "#70D7FF"
 		},
 		"typeParameter": {
 			"foreground": "#64B94D"
