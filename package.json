@@ -1,30 +1,35 @@
 {
-    "publisher": "sgrankin",
-    "name": "meishi",
-    "displayName": "meishi",
-    "description": "",
-    "repository": {
-        "url": "https://github.com/sgrankin/meishi"
-    },
-    "version": "0.3.0",
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "meishi (dark)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark.json"
-            },
-            {
-                "label": "meishi (light)",
-                "uiTheme": "vs",
-                "path": "./themes/light.json"
-            }
-        ]
-    }
+  "publisher": "sgrankin",
+  "name": "meishi",
+  "displayName": "meishi",
+  "description": "Now with Color!",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/sgrankin/meishi"
+  },
+  "version": "0.3.1",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "light",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "meishi (dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "meishi (light)",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      }
+    ]
+  }
 }
