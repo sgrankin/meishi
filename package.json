@@ -29,6 +29,11 @@
         "label": "meishi (light)",
         "uiTheme": "vs",
         "path": "./themes/light.json"
+      },
+      {
+        "label": "meishi (acme)",
+        "uiTheme": "vs",
+        "path": "./themes/acme.json"
       }
     ]
   }
